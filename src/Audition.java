@@ -1,4 +1,4 @@
-
+/*% this class seems unnecessary %*/
 public class Audition {
 	public int add(int a, int b, int c) {
 		return a + b + c;

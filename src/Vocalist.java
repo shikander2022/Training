@@ -1,4 +1,4 @@
-
+/*% should this extend performer? %*/
 public class Vocalist {
 	public void saying() {
 		String key = "G";

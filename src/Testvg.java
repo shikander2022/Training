@@ -2,6 +2,7 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
+/*% Separate tests out into a different folder with same package name %*/
 
 public class Testvg {
 
